@@ -17,3 +17,5 @@ V
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 Q
 !contracts/symbiotic-pair-nft.clar,a/6/a608c689cf49135ca8d2e7e40e94fa008e6999db
+P
+ tests/symbiotic-pair-nft.test.ts,0/a/0ab176c31c3ea65033c258aa2087d170e4dc457a
