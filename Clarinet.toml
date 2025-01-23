@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/ecosystem-data.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.symbiosis-proposal]
+path = 'contracts/symbiosis-proposal.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
