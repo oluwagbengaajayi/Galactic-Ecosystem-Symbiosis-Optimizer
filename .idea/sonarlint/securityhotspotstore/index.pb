@@ -11,3 +11,5 @@ P
  tests/symbiosis-proposal.test.ts,f/5/f539882abb8fbf38632f40fab8c077f9f169d53b
 W
 'contracts/bioinformatics-algorithm.clar,5/5/55c0bebb425a5ebc3b5477856ca903067cf46c32
+V
+&tests/bioinformatics-algorithm.test.ts,a/e/ae04dda06b9978d45a7834b1f829f439d33fe8f5
