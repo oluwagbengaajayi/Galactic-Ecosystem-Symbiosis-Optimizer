@@ -13,3 +13,7 @@ W
 'contracts/bioinformatics-algorithm.clar,5/5/55c0bebb425a5ebc3b5477856ca903067cf46c32
 V
 &tests/bioinformatics-algorithm.test.ts,a/e/ae04dda06b9978d45a7834b1f829f439d33fe8f5
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+Q
+!contracts/symbiotic-pair-nft.clar,a/6/a608c689cf49135ca8d2e7e40e94fa008e6999db
