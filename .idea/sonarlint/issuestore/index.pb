@@ -9,3 +9,5 @@ Q
 !contracts/symbiosis-proposal.clar,a/c/ac847f6edeab6f31c5423d2fc56b5a2d4a2c0209
 P
  tests/symbiosis-proposal.test.ts,f/5/f539882abb8fbf38632f40fab8c077f9f169d53b
+W
+'contracts/bioinformatics-algorithm.clar,5/5/55c0bebb425a5ebc3b5477856ca903067cf46c32

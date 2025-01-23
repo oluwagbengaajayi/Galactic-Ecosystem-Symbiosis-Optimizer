@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.bioinformatics-algorithm]
+path = 'contracts/bioinformatics-algorithm.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.ecosystem-data]
 path = 'contracts/ecosystem-data.clar'
 clarity_version = 2
